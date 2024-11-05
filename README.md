@@ -1,4 +1,4 @@
-Examen de Programación en C++
+## Examen de Programación en C++ ## 
 Estimado estudiante,
 
 Para asegurar una evaluación justa de tus habilidades en programación en C++, sigue estas instrucciones al entregar tus respuestas.
@@ -24,7 +24,8 @@ Aspectos Adicionales:
 Organiza y comenta tu código para que sea fácil de leer y entender.
 Si utilizas referencias externas, inclúyelas en el README.md.
 Parte 2: Problemas de Codificación (70 puntos en total)
-Ejercicio 1: Identificación de Número Positivo, Negativo o Cero
+
+# Ejercicio 1: Identificación de Número Positivo, Negativo o Cero #
 Escribe un programa en C++ que solicite al usuario ingresar un número entero. El programa deberá analizar el número ingresado e imprimir en pantalla si el número es "positivo", "negativo" o "cero". 
 
 Ejercicio 2: Día de la Semana
