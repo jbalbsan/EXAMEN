@@ -1,1 +1,0 @@
-CMakeLists.txt not found in D:\Escritorio\1-Ing. Informatica\1 Curso\Programacion\Ejercicios\Ej-examen\EXAMEN\Ej4 Select CMakeLists.txt
